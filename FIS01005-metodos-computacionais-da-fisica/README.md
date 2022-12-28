@@ -5,3 +5,6 @@
 > A tecnologia em uso neste repositório encontra-se obsoleta em muitos aspectos, e foram desenvolvidos no âmbito acadêmico. Os arquivos estão mantidos neste repositório apenas para fins de demonstração e documentação.
 
 ## Súmula da Disciplina
+
+Súmula: Sistemas operacionais, linguagens de programação, sistemas de processamento algébrico e aplicações à álgebra linear, cálculo, equações diferenciais e problemas de valor de contorno.
+
