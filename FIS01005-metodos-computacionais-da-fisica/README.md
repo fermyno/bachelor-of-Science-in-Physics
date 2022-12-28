@@ -8,3 +8,5 @@
 
 Súmula: Sistemas operacionais, linguagens de programação, sistemas de processamento algébrico e aplicações à álgebra linear, cálculo, equações diferenciais e problemas de valor de contorno.
 
+## Atividades
+
