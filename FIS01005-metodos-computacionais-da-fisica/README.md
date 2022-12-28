@@ -10,3 +10,4 @@ Súmula: Sistemas operacionais, linguagens de programação, sistemas de process
 
 ## Atividades
 
+Atividades desenvolvidas no âmbito da disciplina **FIS01005 - Métodos Computacionais da Física** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
