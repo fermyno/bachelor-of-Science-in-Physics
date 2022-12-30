@@ -21,6 +21,6 @@ Atividades desenvolvidas no âmbito da disciplina **FIS01005 - Métodos Computac
   **Objetivo:** Criar um programa que leia a entrada, via teclado, dos três lados de um triângulo e calcule a sua área. Atenção: O programa deve fazer uso de pelo menos uma função.    
 
 * **Atividade 3:**  
-  **Programa:** [ativ03](src/ativ03.f90)
+  **Programa:** [ativ03](src/ativ03.f90)  
   **Objetivo:** Escreva um programa que calcule o maior fator comum de dois números inteiros A e B. Para isso, utilize o Algoritmo de Euclides.  
 
