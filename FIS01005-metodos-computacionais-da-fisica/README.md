@@ -22,4 +22,5 @@ Atividades desenvolvidas no âmbito da disciplina **FIS01005 - Métodos Computac
 
 * **Atividade 3:**
   **Programa:** [ativ03](src/ativ03.f90)
-  
+  **Objetivo:** Escreva um programa que calcule o maior fator comum de dois números inteiros A e B. Para isso, utilize o Algoritmo de Euclides.  
+
