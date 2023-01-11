@@ -8,3 +8,4 @@
 ## Súmula da Disciplina
 Súmula: Conceitos básicos de computação. Linguagem FORTRAN: operadores, expressões, comandos, subprogramas.
 
+## Atividades
