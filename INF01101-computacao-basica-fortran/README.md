@@ -9,3 +9,4 @@
 Súmula: Conceitos básicos de computação. Linguagem FORTRAN: operadores, expressões, comandos, subprogramas.
 
 ## Atividades
+Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básica Fortran** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
