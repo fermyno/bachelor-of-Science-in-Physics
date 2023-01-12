@@ -12,4 +12,4 @@ Súmula: Conceitos básicos de computação. Linguagem FORTRAN: operadores, expr
 Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básica Fortran** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
 
 * **Atividade 1:**  
-  **Programa:** [ativ01](src/ativ01.f90)
+  **Programa:** [ativ01](src/ativ01.f90)  
