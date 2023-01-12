@@ -15,3 +15,4 @@ Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básic
   **Programa:** [ativ01](src/ativ01.f90)  
   **Objetivo:** Faça um programa que escreva uma mensagem na tela.
   
+* **Atividade 2:**
