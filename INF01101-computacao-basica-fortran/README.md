@@ -17,3 +17,4 @@ Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básic
   
 * **Atividade 2:**  
   **Programa:** [ativ02](src/ativ02.f90)
+  **Objetivo:** Faça um programa que leia um número do teclado e escreva na tela.
