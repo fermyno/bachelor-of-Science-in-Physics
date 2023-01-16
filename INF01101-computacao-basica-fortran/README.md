@@ -23,4 +23,4 @@ Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básic
   **Programa:** [ativ03](src/ativ03.f90)  
   **Objetivo:** Faça um programa que grave informações formatadas no arquivo ativ03.dat. Se o arquivo não existe, o programa deve criá-lo; se existe, então os dados previamente contidos nele deverão ser substituídos por novos valores.
 
-* **Atividade 4:**
+* **Atividade 4:**  
