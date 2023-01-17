@@ -27,4 +27,5 @@ Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básic
   **Programa:** [ativ04](src/ativ04.f90)  
   **Objetivo:** Escreva um programa que colete os seguintes dados dos alunos: Nome, Nota 1, Nota 2 e Nota 3. Em seguida, escreva na tela o nome do aluno e a média das suas notas (as notas têm peso iguais). É obrigatória a utilização de type para definir os dados dos alunos.
 
-* **Atividade 5:**
+* **Atividade 5:**  
+* 
