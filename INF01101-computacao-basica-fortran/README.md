@@ -30,4 +30,4 @@ Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básic
 * **Atividade 5:**  
   **Programa:** [ativ05](src/ativ05.f90)  
   **Objetivo:** Criar um programa que abra o arquivo ativ05.dat (o arquivo será fornecido pelo professor) e mostre os dados na tela com a seguinte formatacao sugerida:  
-  
+  ```  
