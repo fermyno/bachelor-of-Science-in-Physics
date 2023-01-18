@@ -34,4 +34,6 @@ Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básic
                          Altura
    Nome         Idade   (metros)  Telefone                         
    ----         -----    ------   --------
-   
+P. A. Cabral      31      1.60    96556789
+C. Colombo        42      1.65    21025499
+
