@@ -33,3 +33,5 @@ Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básic
   ```  
                          Altura
    Nome         Idade   (metros)  Telefone                         
+   ----         -----    ------   --------
+   
