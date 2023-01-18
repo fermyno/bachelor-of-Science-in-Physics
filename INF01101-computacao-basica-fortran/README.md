@@ -32,4 +32,4 @@ Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básic
   **Objetivo:** Criar um programa que abra o arquivo ativ05.dat (o arquivo será fornecido pelo professor) e mostre os dados na tela com a seguinte formatacao sugerida:  
   ```  
                          Altura
-                         
+   Nome         Idade   (metros)  Telefone                         
