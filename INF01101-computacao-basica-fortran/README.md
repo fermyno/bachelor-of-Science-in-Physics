@@ -13,7 +13,7 @@ Súmula: Conceitos básicos de computação. Linguagem FORTRAN: operadores, expr
 * **Programa:** [atvfim](src/ativfim.f90)  
   **Enunciado:** Criar um programa que abra o arquivo ativfim.dat (o arquivo será fornecido pelo professor) e mostre os dados na tela com a seguinte formatacao sugerida:
 ```
-
+ +-------------------------------------------------------------------+
 ```  
 
 ## Atividades de Exercícios
