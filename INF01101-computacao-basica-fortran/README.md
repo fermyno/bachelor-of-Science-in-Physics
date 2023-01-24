@@ -17,6 +17,7 @@ Súmula: Conceitos básicos de computação. Linguagem FORTRAN: operadores, expr
  |                         CONTROLE DE ESTOQUE                       |
  | LABORATORIO DE FISICA - UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL |
  +-------------------------------------------------------------------+ 
+ |     CODIGO        | QUANTIDADE | VALOR (x1.000) |      SETOR      |
  
 ```  
 
