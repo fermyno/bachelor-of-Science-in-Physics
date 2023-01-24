@@ -18,6 +18,7 @@ Súmula: Conceitos básicos de computação. Linguagem FORTRAN: operadores, expr
  | LABORATORIO DE FISICA - UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL |
  +-------------------------------------------------------------------+ 
  |     CODIGO        | QUANTIDADE | VALOR (x1.000) |      SETOR      |
+ +-------------------------------------------------------------------+
  
 ```  
 
