@@ -19,6 +19,7 @@ Súmula: Conceitos básicos de computação. Linguagem FORTRAN: operadores, expr
  +-------------------------------------------------------------------+ 
  |     CODIGO        | QUANTIDADE | VALOR (x1.000) |      SETOR      |
  +-------------------------------------------------------------------+
+ | M47BCL1008122A1   |     31     |      1.90      |       118       |
  
 ```  
 
