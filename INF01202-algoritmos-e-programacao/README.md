@@ -8,3 +8,6 @@
 ## Súmula da Disciplina
 
 Súmula: Formulação de problemas, construção de algoritmos e implementação envolvendo: comandos de atribuição. Comandos de entrada e saída. Comandos de seleção. Comandos de repetição (iterativos) funções e procedimentos. 
+
+## Atividades
+
