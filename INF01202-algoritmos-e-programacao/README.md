@@ -15,3 +15,4 @@ Atividades desenvolvidas no âmbito da disciplina **INF01202 - Algoritmos e Prog
 
 * **Atividade 1:**
   **Programa:** [atividade-avaliativa-1](visualg/atividade-avaliativa-1.alg)
+  **Objetivo:** Escreva um algoritmo que converta o valor de horas, minutos, e segundos em segundos.
