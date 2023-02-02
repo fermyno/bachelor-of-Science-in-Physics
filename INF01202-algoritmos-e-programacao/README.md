@@ -14,3 +14,4 @@ Súmula: Formulação de problemas, construção de algoritmos e implementação
 Atividades desenvolvidas no âmbito da disciplina **INF01202 - Algoritmos e Programação** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
 
 * **Atividade 1:**
+  **Programa:** [atividade-avaliativa-1](visualg/atividade-avaliativa-1.alg)
