@@ -19,4 +19,5 @@ Atividades desenvolvidas no âmbito da disciplina **INF01202 - Algoritmos e Prog
 
 * **Atividade 2:**
   **Programa:** [atividade-avaliativa-2](visualg/atividade-avaliativa-1.alg)
-  
+  **Objetivo:** Escreva um algoritmo que calcule o pagamento anual dos juros de um empréstico bancário. O usuário deve infomar o montante do empréstimo, a taxa de juros, e o número de anos. O programa deve calcular e informar o valor de pagamento anual com os dados inseridos.
+
