@@ -5,3 +5,4 @@ Repositório de estudos desenvolvidos como requisitos para a conclusão do Curso
 ## Disciplinas
 
 * [FIS01005 - Métodos Computacionais da Física](https://github.com/fermyno/bachelor-of-Science-in-Physics/tree/main/FIS01005-metodos-computacionais-da-fisica)
+* [INF01101 Computação Básica Fortran](https://github.com/fermyno/bachelor-of-Science-in-Physics/tree/main/INF01101-computacao-basica-fortran)
