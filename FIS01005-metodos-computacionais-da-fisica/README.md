@@ -13,7 +13,6 @@ Linguagem **FORTRAN**. <br /> <br />
 * Linguagens de programação,  
 * Sistemas de processamento algébrico e aplicações à álgebra linear, cálculo, equações diferenciais e problemas de valor de contorno.  
 <br />
-<br />
 
 ## Atividades
 
