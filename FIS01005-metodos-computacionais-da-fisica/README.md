@@ -7,7 +7,7 @@
 
 ## :bookmark_tabs: Súmula da Disciplina
 
-Linguagem **FORTRAN**. <br /> <br />
+Linguagem de Programação **FORTRAN**. <br /> <br />
 **Súmula:**
 * Sistemas operacionais,  
 * Linguagens de programação,  
@@ -23,3 +23,4 @@ Atividades desenvolvidas no âmbito da disciplina **FIS01005 - Métodos Computac
 * :floppy_disk: **[Atividade 3](src/ativ03.f90)**: Programa em linguagem FORTRAN que calcula o maior fator comum de dois números inteiros A e B, utilizando o Algoritmo de Euclides.<br />
 * :floppy_disk: **[Atividade 4](src/ativ04.f90)**: Programa em linguagem FORTRAN que realiza a conversão de base numérica, convertendo da base decimal para o formato binário.<br />
 
+<br /> <br />
