@@ -1,4 +1,4 @@
-# FIS01005 - Métodos Computacionais da Física
+# FIS01005 - FORTRAN - Métodos Computacionais da Física
   
 > **Warning**  
 > [DEPRECATED]  
@@ -14,8 +14,12 @@ Súmula: Sistemas operacionais, linguagens de programação, sistemas de process
 
 Atividades desenvolvidas no âmbito da disciplina **FIS01005 - Métodos Computacionais da Física** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
 
-:floppy_disk: **[Atividade 1](src/ativ01.f90)**: Programa que calcula o fatorial de um número natural.    
-
+:floppy_disk: **[Atividade 1](src/ativ01.f90)**: Programa em linguagem FORTRAN que calcula o fatorial de um número natural.    
+:floppy_disk: **[Atividade 2](src/ativ02.f90)**: Programa em linguagem FORTRAN que lê a entrada, via teclado, dos três lados de um triângulo e calcula a sua área, fazendo uso de funções.      
+:floppy_disk: **[Atividade 3](src/ativ03.f90)**: Programa em linguagem FORTRAN que calcula o maior fator comum de dois números inteiros A e B, utilizando o Algoritmo de Euclides.   
+:floppy_disk: **[Atividade 4](src/ativ04.f90)**: Programa em linguagem FORTRAN que realiza a conversão de base numérica, convertendo da base decimal para o formato binário.  
+:floppy_disk: **
+:floppy_disk: **
 * **Atividade 2:**  
   **Programa:** [ativ02](src/ativ02.f90)  
   **Objetivo:** Criar um programa que leia a entrada, via teclado, dos três lados de um triângulo e calcule a sua área. Atenção: O programa deve fazer uso de pelo menos uma função.    
