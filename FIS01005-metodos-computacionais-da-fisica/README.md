@@ -7,7 +7,7 @@
 
 ## :bookmark_tabs: Súmula da Disciplina
 
-Linguagem FORTRAN. <br />
+Linguagem **FORTRAN**. <br /> <br />
 **Súmula:**
 * Sistemas operacionais,  
 * Linguagens de programação,  
