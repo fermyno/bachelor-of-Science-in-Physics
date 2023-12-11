@@ -8,12 +8,13 @@
 ## :bookmark_tabs: Súmula da Disciplina
 
 Súmula: Sistemas operacionais, linguagens de programação, sistemas de processamento algébrico e aplicações à álgebra linear, cálculo, equações diferenciais e problemas de valor de contorno.
+<br />
 
 ## Atividades
 
 Atividades desenvolvidas no âmbito da disciplina **FIS01005 - Métodos Computacionais da Física** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
 
-* **Atividade 1:**  
+:floppy_disk: **Atividade 1:**  
   **Programa:** [ativ01](src/ativ01.f90)  
   **Objetivo:** Faça um programa que calcule o fatorial de um número natural.    
 
