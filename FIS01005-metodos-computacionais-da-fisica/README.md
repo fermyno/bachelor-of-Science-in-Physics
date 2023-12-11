@@ -14,9 +14,7 @@ Súmula: Sistemas operacionais, linguagens de programação, sistemas de process
 
 Atividades desenvolvidas no âmbito da disciplina **FIS01005 - Métodos Computacionais da Física** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
 
-:floppy_disk: **Atividade 1:**  
-  **Programa:** [ativ01](src/ativ01.f90)  
-  **Objetivo:** Faça um programa que calcule o fatorial de um número natural.    
+:floppy_disk: **Atividade 1:** [ativ01](src/ativ01.f90) Programa que calcula o fatorial de um número natural.    
 
 * **Atividade 2:**  
   **Programa:** [ativ02](src/ativ02.f90)  
