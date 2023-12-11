@@ -1,4 +1,4 @@
-# FIS01005 - FORTRAN - Métodos Computacionais da Física
+# FIS01005 - Métodos Computacionais da Física
   
 > **Warning**  
 > [DEPRECATED]  
@@ -7,7 +7,11 @@
 
 ## :bookmark_tabs: Súmula da Disciplina
 
-Súmula: Sistemas operacionais, linguagens de programação, sistemas de processamento algébrico e aplicações à álgebra linear, cálculo, equações diferenciais e problemas de valor de contorno.
+Linguagem FORTRAN. <br />
+**Súmula:**
+* Sistemas operacionais,  
+* Linguagens de programação,  
+* Sistemas de processamento algébrico e aplicações à álgebra linear, cálculo, equações diferenciais e problemas de valor de contorno.  
 <br />
 <br />
 
