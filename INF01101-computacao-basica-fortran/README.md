@@ -32,6 +32,7 @@
 ### :computer: Capturas de Tela da Atividade Final
 ![Screenshot](images/screenshot-01.png)
 <br />
+<br />
 
 ## :floppy_disk: Atividades de Exercícios
 Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básica Fortran** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
@@ -62,4 +63,5 @@ Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básic
 P. A. Cabral      31      1.60    96556789
 C. Colombo        42      1.65    21025499
 ```
-
+<br />
+<br />
