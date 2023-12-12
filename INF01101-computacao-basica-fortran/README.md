@@ -29,11 +29,11 @@
 ```  
 <br />
 
-### Capturas de Tela da Atividade Final
+### :computer: Capturas de Tela da Atividade Final
 ![Screenshot](images/screenshot-01.png)
 <br />
 
-## Atividades de Exercícios
+## :floppy_disk: Atividades de Exercícios
 Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básica Fortran** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
 
 * **Atividade 1:**  
