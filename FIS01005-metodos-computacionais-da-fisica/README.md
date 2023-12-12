@@ -7,7 +7,7 @@
 
 ## :bookmark_tabs: Súmula da Disciplina
 
-Linguagem de Programação **FORTRAN**. <br /> <br />
+Métodos Computacionais da Física utilizando a Linguagem de Programação **FORTRAN**. <br /> <br />
 **Súmula:**
 * Sistemas operacionais,  
 * Linguagens de programação,  
