@@ -4,11 +4,15 @@
 > 
 > [DEPRECATED]  
 > A tecnologia em uso neste repositório encontra-se obsoleta em muitos aspectos, e foram desenvolvidos no âmbito acadêmico. Os arquivos estão mantidos neste repositório apenas para fins de demonstração e documentação. 
+<br />
 
 ## :bookmark_tabs: Súmula da Disciplina
-Súmula: Conceitos básicos de computação. Linguagem FORTRAN: operadores, expressões, comandos, subprogramas.
+**Súmula:**
+* Conceitos básicos de computação,
+* Linguagem FORTRAN: operadores, expressões, comandos, subprogramas.  
+<br />
 
-## Atividade Final
+## :floppy_disk: Atividade Final
 
 * **Programa:** [atvfim](src/ativfim.f90)  
   **Enunciado:** Criar um programa que abra o arquivo ativfim.dat (o arquivo será fornecido pelo professor) e mostre os dados na tela com a seguinte formatacao sugerida:
@@ -23,6 +27,7 @@ Súmula: Conceitos básicos de computação. Linguagem FORTRAN: operadores, expr
  | JKT12544SHT1009   |    114     |     10.10      |        57       |
  +-------------------------------------------------------------------+ 
 ```  
+<br />
 
 ### Capturas de Tela da Atividade Final
 ![Screenshot](images/screenshot-01.png)
