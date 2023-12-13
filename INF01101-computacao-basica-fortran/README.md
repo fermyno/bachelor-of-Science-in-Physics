@@ -38,26 +38,10 @@
 Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básica Fortran** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
 
 * :floppy_disk: **[Atividade 01](src/ativ01.f90)**: Programa que escreva uma mensagem na tela.<br />
-* :floppy_disk: **[Atividade 02](src/ativ02.f90)**: Programa que escreva uma mensagem na tela.<br />
-* :floppy_disk: **[Atividade 03](src/ativ03.f90)**: Programa que escreva uma mensagem na tela.<br />
-* :floppy_disk: **[Atividade 04](src/ativ04.f90)**: Programa que escreva uma mensagem na tela.<br />
-* :floppy_disk: **[Atividade 05](src/ativ05.f90)**: Programa que escreva uma mensagem na tela.<br />
-  
-* **Atividade 2:**  
-  **Programa:** [ativ02](src/ativ02.f90)  
-  **Objetivo:** Faça um programa que leia um número do teclado e escreva na tela.
-
-* **Atividade 3:**  
-  **Programa:** [ativ03](src/ativ03.f90)  
-  **Objetivo:** Faça um programa que grave informações formatadas no arquivo ativ03.dat. Se o arquivo não existe, o programa deve criá-lo; se existe, então os dados previamente contidos nele deverão ser substituídos por novos valores.
-
-* **Atividade 4:**  
-  **Programa:** [ativ04](src/ativ04.f90)  
-  **Objetivo:** Escreva um programa que colete os seguintes dados dos alunos: Nome, Nota 1, Nota 2 e Nota 3. Em seguida, escreva na tela o nome do aluno e a média das suas notas (as notas têm peso iguais). É obrigatória a utilização de type para definir os dados dos alunos.
-
-* **Atividade 5:**  
-  **Programa:** [ativ05](src/ativ05.f90)  
-  **Objetivo:** Criar um programa que abra o arquivo ativ05.dat (o arquivo será fornecido pelo professor) e mostre os dados na tela com a seguinte formatacao sugerida:  
+* :floppy_disk: **[Atividade 02](src/ativ02.f90)**: Programa que recebe um número do teclado e escreva na tela.<br />
+* :floppy_disk: **[Atividade 03](src/ativ03.f90)**: Programa que grava informações formatadas no arquivo ativ03.dat. Se o arquivo não existe, o programa deve criá-lo; se existe, então os dados previamente contidos nele deverão ser substituídos por novos valores.<br />
+* :floppy_disk: **[Atividade 04](src/ativ04.f90)**: Programa que colet< os seguintes dados dos alunos: Nome, Nota 1, Nota 2 e Nota 3. Em seguida, escreva na tela o nome do aluno e a média das suas notas (as notas têm peso iguais). É obrigatória a utilização de type para definir os dados dos alunos.<br />
+* :floppy_disk: **[Atividade 05](src/ativ05.f90)**: Programa que abre o arquivo ativ05.dat (o arquivo será fornecido pelo professor) e mostra os dados na tela com a seguinte formatacao sugerida:  
 ```  
                          Altura
    Nome         Idade   (metros)  Telefone                         
