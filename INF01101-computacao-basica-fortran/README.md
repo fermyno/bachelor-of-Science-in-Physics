@@ -14,7 +14,7 @@
 
 ## :floppy_disk: Atividade Final
 
-* :floppy_disk: **[Atividade Final](src/ativfim.f90)**: Criar um programa que abra o arquivo ativfim.dat (o arquivo será fornecido pelo professor) e mostre os dados na tela com a seguinte formatacao sugerida:
+* **[Atividade Final](src/ativfim.f90)**: Criar um programa que abra o arquivo ativfim.dat (o arquivo será fornecido pelo professor) e mostre os dados na tela com a seguinte formatacao sugerida:
 ```
  +-------------------------------------------------------------------+
  |                         CONTROLE DE ESTOQUE                       |
