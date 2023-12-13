@@ -37,9 +37,7 @@
 ## :floppy_disk: Atividades de Exercícios
 Atividades desenvolvidas no âmbito da disciplina **INF01101 Computação Básica Fortran** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
 
-* **Atividade 1:**  
-  **Programa:** [ativ01](src/ativ01.f90)  
-  **Objetivo:** Faça um programa que escreva uma mensagem na tela.
+* :floppy_disk: **[Atividade 01](src/ativ01.f90)** Programa que escreva uma mensagem na tela.<br />
   
 * **Atividade 2:**  
   **Programa:** [ativ02](src/ativ02.f90)  
