@@ -1,4 +1,4 @@
-# Disciplina: INF01101 Computação Básica Fortran
+# Disciplina: INF01101 Computação Básica FORTRAN
 
 > **Warning**
 > 
