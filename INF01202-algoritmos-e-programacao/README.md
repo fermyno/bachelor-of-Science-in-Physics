@@ -10,8 +10,9 @@
 
 Súmula: Formulação de problemas, construção de algoritmos e implementação envolvendo: comandos de atribuição. Comandos de entrada e saída. Comandos de seleção. Comandos de repetição (iterativos) funções e procedimentos. 
 <br />
+<br />
 
-## Atividades
+## :floppy_disk: Atividades
 
 Atividades desenvolvidas no âmbito da disciplina **INF01202 - Algoritmos e Programação** do curso de Licenciatura em Física, realizado na UFGRS - Universidade Federal do Rio Grande do Sul.
 
